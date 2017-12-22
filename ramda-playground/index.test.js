@@ -1,6 +1,6 @@
 const f = require('./index')
 
-describe(`Ramnda`, () => {
+describe(`Ramda`, () => {
   describe(`function composition`, () => {
     const functions = [x => x + 10, x => 2 * x]
     const cases = [
