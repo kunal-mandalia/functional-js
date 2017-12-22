@@ -1,0 +1,12 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kunal-mandalia/functional-js.git",
+  "author": "Kunal Mandalia <kunal.v.mandalia@gmail.com> (http://kunalmandalia.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "22.0.3",
+    "ramda": "0.25.0"
+  }
+}
